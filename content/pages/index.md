@@ -197,7 +197,7 @@ sections:
           - pr-4
           - pl-4
         alignItems: flex-end
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: row-reverse
       title:
         fontWeight: '700'
