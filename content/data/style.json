@@ -29,7 +29,7 @@
     "complementaryAlt": "#fffde2",
     "buttonPrimary": {
         "weight": "normal",
-        "case": "uppercase",
+        "case": "capitalize",
         "letterSpacing": "-0.025em",
         "borderRadius": "9999px",
         "horizontalPadding": 16,
