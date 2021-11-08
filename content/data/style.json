@@ -28,7 +28,7 @@
     "complementary": "#e9f6ff",
     "complementaryAlt": "#fffde2",
     "buttonPrimary": {
-        "weight": "bold",
+        "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "9999px",
