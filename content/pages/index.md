@@ -55,6 +55,14 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    feature:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - elementId: ''
     colors: colors-c
     quote: >-
