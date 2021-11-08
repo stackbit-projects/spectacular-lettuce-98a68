@@ -16,8 +16,9 @@ sections:
       - type: Button
         label: Get Started
         url: /
-        style: secondary
+        style: link
         showIcon: false
+        iconPosition: right
       - type: Button
         label: Learn More
         url: /
