@@ -136,6 +136,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
+          isRequired: true
       submitLabel: Send Message
     feature:
       type: ImageBlock
