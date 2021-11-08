@@ -32,7 +32,7 @@
         "case": "none",
         "letterSpacing": "-0.025em",
         "borderRadius": "9999px",
-        "horizontalPadding": 16,
+        "horizontalPadding": 14,
         "verticalPadding": 19,
         "shadow": "0 25px 50px -12px rgba(0, 0, 0, 0.25)"
     },
