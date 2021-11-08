@@ -23,6 +23,7 @@ sections:
         label: Learn More
         url: /
         style: secondary
+        showIcon: true
     styles:
       self:
         height: screen
