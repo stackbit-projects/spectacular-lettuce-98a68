@@ -2,8 +2,8 @@
     "type": "ThemeStyle",
     "h1": {
         "weight": "normal",
-        "decoration": "underline",
-        "case": "none",
+        "decoration": "none",
+        "case": "lowercase",
         "letterSpacing": "normal"
     },
     "h2": {
