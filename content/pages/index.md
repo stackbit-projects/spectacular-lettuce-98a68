@@ -135,7 +135,7 @@ sections:
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
-          width: full
+          width: 1/2
           isRequired: true
       submitLabel: Send Message
     feature:
