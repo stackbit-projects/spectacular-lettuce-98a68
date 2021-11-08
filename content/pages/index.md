@@ -55,6 +55,14 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    feature:
+      url: lorem-ipsum
+      autoplay: false
+      loop: false
+      muted: false
+      controls: false
+      elementId: ''
+      type: VideoBlock
   - elementId: ''
     colors: colors-c
     quote: >-
