@@ -33,7 +33,7 @@
         "letterSpacing": "normal",
         "borderRadius": 0,
         "horizontalPadding": 24,
-        "verticalPadding": 9,
+        "verticalPadding": 22,
         "shadow": "none"
     },
     "buttonSecondary": {
