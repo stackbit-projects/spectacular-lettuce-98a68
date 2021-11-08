@@ -41,7 +41,7 @@ sections:
           - pl-4
         alignItems: flex-end
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
       title:
         fontWeight: '700'
         fontStyle: normal
