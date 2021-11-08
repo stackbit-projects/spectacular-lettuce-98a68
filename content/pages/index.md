@@ -70,6 +70,7 @@ sections:
         label: View all
         url: /
         style: primary
+        showIcon: true
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
