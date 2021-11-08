@@ -30,7 +30,7 @@
     "buttonPrimary": {
         "weight": "normal",
         "case": "none",
-        "letterSpacing": "0.1em",
+        "letterSpacing": "-0.025em",
         "borderRadius": "9999px",
         "horizontalPadding": 16,
         "verticalPadding": 19,
